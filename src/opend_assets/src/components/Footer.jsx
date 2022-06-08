@@ -13,14 +13,11 @@ function Footer() {
           <Row>
             <Col>
               <p>
-                The Internet Computer's largest digital marketplace for crypto
-                collectibles and non-fungible tokens (NFTs). Buy, sell, and
-                discover exclusive digital items.
+                <span STYLE="font-weight:bold">Created By</span> - Dileep Kumar
+                Sharma
               </p>
             </Col>
-            <Col>
-              <p>Copyright ⓒ {year}</p>
-            </Col>
+            <Col>{/* <p>SDP - Mini Project</p> */}</Col>
           </Row>
         </Container>
       </footer>
